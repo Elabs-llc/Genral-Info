@@ -1,0 +1,578 @@
+# Missing Translations for Expert (Filtered)
+
+## Flutter App UI Strings
+- /month
+- 360° View
+- A regular day in the Asante calendar. 
+- A sacred day when the Asantehene sits in state and receives homage from chiefs and people.
+- ARTIFACT ID
+- Access expiring soon!
+- Adaduanan Calendar
+- Add a name and photo so others can recognize you
+- Additional Resources
+- Admin operations not available in mobile app
+- All Episodes
+- All transactions handled by Cloud Functions
+- Already have an account? 
+- Amount exceeds mobile money limits
+- Apply Filters
+- Archived
+- Are you sure you want to delete 
+- Are you sure you want to delete this report? This action cannot be undone.
+- Are you sure you want to reset all preferences to their default values? This action cannot be undone.
+- Are you sure you want to submit without images? Reports with images are more impactful.
+- Artifact Vault
+- Artifact bookmarked successfully
+- Artifact not found
+- Artifact shared successfully
+- Asante
+- Asante History Collection
+- Asante Rhythm
+- Audio
+- Audio Locked
+- Audio narration available
+- Available Translations
+- Back to Sign In
+- Benefits included:
+- Best Match
+- Best Value
+- Bookmark removed successfully
+- By subscribing, you agree to our Terms of Service and Privacy Policy. Cancel anytime.
+- Cancellation reason is required
+- Cannot create free tier subscription
+- Cannot generate receipt for incomplete transaction
+- Categories
+- Category *
+- Check back later for new content
+- Check back later for new stories
+- Check back later for updates on Asante artifacts
+- Checking authentication...
+- Choose Your Plan
+- Choose how you want to pay
+- Choose which types of notifications you want to receive:
+- Complete Setup
+- Complete Your Profile
+- Connecting to Google...
+- Contact Support
+- Content Type
+- Continue Watching
+- Create Account
+- Creating your account...
+- Cultural Meaning
+- Daily artifact not configured
+- Daily limit reached. You can submit up to 5 reports per day.
+- Date Range
+- Delete Report
+- Description *
+- Description must be at least 20 characters
+- Description must not exceed 1000 characters
+- Discover Ashanti Heritage
+- Display Name
+- Donate for Today
+- Done
+- Download Without Donating
+- Download complete! Episode available offline.
+- Download complete! You can now play the rhythm.
+- Download for Offline
+- Download is temporarily unavailable. Please try again.
+- Download is temporarily unavailable. Your payment was received - please try again in a few minutes.
+- Download removed
+- Download started for 
+- Downloaded episode not found
+- Downloaded episode removed
+- Downloaded rhythms will appear here
+- Downloading 
+- Drag to rotate
+- Duration must be 1-365 days
+- Email Sent!
+- Email is required for payment. Please update your profile.
+- Enable Renewal Reminders
+- Enhanced validation failed
+- Enter password to confirm:
+- Enter your email address and we\
+- Episode Complete
+- Episode completed!
+- Expired
+- Explore Now
+- Explore our heritage & community
+- FEATURED
+- FREE TODAY
+- Featured
+- Filter by Category
+- Filter by Tags
+- Filters applied
+- Get in Touch
+- Get notified before your subscription expires (7 days, 3 days, and 1 day before)
+- Google sign-in was cancelled.
+- Guidelines
+- Help preserve Asante culture
+- Help us preserve Asante cultural heritage
+- History Narration
+- History Vault
+- History entry not found
+- If you completed the payment successfully, tap 
+- Images
+- Integrity validation failed
+- Internet connection required for payment
+- Internet connection required for verification
+- Join Asante Post today
+- Listen to Narration
+- Live updates • Reports update in real-time
+- Loading calendar...
+- Loading payment page...
+- Maximum 5 images allowed
+- Maximum donation is 1000 GHS
+- Maybe Later
+- Mobile Money Number
+- Mobile Money is recommended for faster checkout
+- Mobile money transaction blocked due to fraud risk
+- Moral of the Story
+- More Episodes
+- NOW PLAYING
+- New Report
+- New period must be different from current period
+- New tier must be higher than current tier
+- New tier must be lower than current tier
+- Next artifact in:
+- Next in:
+- No 360° view available
+- No Active Subscription
+- No Akom insights available yet
+- No Downloads Yet
+- No Purchase History
+- No active subscription found
+- No active trial found
+- No bookmarked series
+- No card details stored on your device
+- No comments yet. Be the first to comment!
+- No downloads
+- No episodes available
+- No events on this day
+- No failed payment to retry
+- No featured series available
+- No images available
+- No internet connection and artifact not cached
+- No internet connection and no cached data
+- No internet connection and rhythm not cached
+- No internet connection available
+- No internet connection for payment processing
+- No internet connection. Download queued.
+- No lyrics available
+- No progress found
+- No receipts yet
+- No recommendations available
+- No reports available yet
+- No reports available yet. Be the first to submit one!
+- No sacred days this month
+- No scheduled events found in the future
+- No scheduled events, but this is a sacred day in the Asante calendar!
+- No seasons available
+- No series available
+- No series available in this category
+- No series found for this creator
+- No series in progress
+- No subscription found
+- No upcoming Akwasidae found
+- No upcoming sacred days found
+- No user loaded
+- No video or audio available for this episode
+- Not authenticated
+- Notes must be less than 500 characters
+- OR
+- Offers not yet implemented
+- Only cancelled subscriptions can be reactivated
+- Only paused subscriptions can be resumed
+- Password Requirements:
+- Pause duration must be 1-3 months
+- Payment
+- Payment History
+- Payment Methods
+- Payment Receipt
+- Payment Successful!
+- Payment amount mismatch
+- Payment completed successfully!
+- Payment method ID and user ID are required
+- Payment method already exists
+- Payment method failed security validation
+- Payment operation failed
+- Payment processing failed
+- Payment reference is required
+- Payment required for premium rhythm
+- Payment requires an email address. Please update your profile with a valid email address to continue.
+- Payment requires an email address. Please update your profile with a valid email to continue.
+- Payment verification is taking longer than expected.\n\n
+- Phone number does not match selected network
+- Photo uploaded but failed to reload profile
+- Please login to download
+- Please login to view downloads
+- Powered by Paystack via Cloud Functions
+- Premium Only
+- Preserving Royal Heritage
+- Preview mode • Full quality available after download
+- Proceed to Payment
+- Progress saved
+- Promo codes not yet implemented
+- Purchases
+- Rating must be between 1.0 and 5.0
+- Recent
+- Reference and user ID are required
+- Related Artifacts
+- Remove Download?
+- Renewal Reminders
+- Report Information
+- Report contains inappropriate language. Please revise your content.
+- Report deleted successfully
+- Report submission failed
+- Report submitted successfully!\n\n
+- Report to Community
+- Reset Password
+- Retry not implemented
+- Rhythm content integrity check failed
+- Ringtone 
+- Sacred Day Types
+- Sacred Day of the Golden Stool
+- Sacred Days
+- Scheduled Reminders
+- Scheduled payments not implemented
+- Search Filters
+- Search failed
+- Search for artifacts, rhythms,\nevents, and more
+- Secure Payment
+- Select Amount (GHS)
+- Select Donation Amount
+- Select Payment Method
+- Send Message
+- Send Reset Link
+- Send Test Reminder
+- Send an immediate reminder notification
+- Sending reset link...
+- Series added to bookmarks
+- Series shared successfully
+- Setting up your profile...
+- Share feature coming soon
+- Sign in to view bookmarks
+- Sign up with Google
+- Significance
+- Signing in...
+- Sort By
+- Sort by Date
+- Sort by Name
+- Sort:
+- Spiritual philosophy and traditional knowledge
+- Start your 7-day free trial today!
+- Stream error occurred
+- Subscribe for unlimited access
+- Subscribe or donate to unlock full content
+- Subscribe to Asante Post Premium to read the full content and support the project
+- Subscribe to access the complete artifact details, including full description, all images, audio narration, and 360° view.
+- Subscribe to premium plans to access exclusive Asante cultural content
+- Subscribe to unlock audio
+- Subscribe to view images
+- Subscription Plans
+- Subscription or donation required to view full content
+- Support Asante Culture
+- Support Asante Post &\nUnlock Full Access
+- Support Our Project
+- Support this project with a donation to download 
+- TODAY IS AKWASIDAE!
+- TODAY!
+- Take a photo
+- Tap to change photo
+- Thank you for your support. Your rhythm is ready to download.
+- Thanks for rating!
+- This action cannot be undone. All your data will be permanently deleted.
+- This episode is available exclusively for premium subscribers. Upgrade now to unlock all content!
+- This rhythm is already downloaded. Check My Downloads.
+- This will open your device calendar to create a reminder for this event.
+- This will remove 
+- Timeline
+- Title *
+- Title must be at least 10 characters
+- Title must not exceed 100 characters
+- Total Amount
+- Total Spent
+- Total Storage Used
+- Total:
+- Traditional Asante Rhythm
+- Transaction blocked due to high fraud risk
+- Try searching for something else or adjusting your filters
+- Type 
+- Type:
+- Unknown error
+- Unlock All
+- Unlock exclusive content from the Asante Kingdom
+- Unlock the Artifact Vault
+- Unlock the History Vault
+- Unlock to access:
+- Up Next
+- Upcoming Sacred Days
+- Upgrade Now - GH\u20B5 30.00
+- Upgrade to Asante Premium
+- Upgrade to Premium for auto-play and more episodes
+- Upgrade to Premium to download and watch offline
+- Upgrade your subscription to access this content and enjoy unlimited episodes.
+- User already has active subscription
+- User is not eligible for free trial
+- User name is required
+- Verified
+- Video/Audio Player Integration Required
+- View All Plans
+- View artifact name in different languages
+- We accept Mobile Money (MTN, Vodafone, AirtelTigo), Visa, Mastercard, and Bank Transfers.
+- We\
+- Welcome to Ashanti Post!
+- What You\
+- What would you like to do?
+- What you\
+- Yes, Cancel
+- You can always update your profile later in settings
+- You can now download. If download fails, please wait a minute and try again.
+- You do not have access to this content. Subscribe or donate to unlock.
+- You do not have access to this report
+- You have not submitted any reports yet. Share what\
+- You haven\
+- You must be logged in to submit a report
+- Your Reports
+- Your access expires in
+- Your access has expired
+- Your donation helps preserve Asante heritage
+- Your donation helps us document artifacts, record oral histories, and keep the Asante cultural legacy alive for future generations.
+- Your donation helps us preserve and digitize Asante cultural heritage for future generations.
+- Your payment information is secure and encrypted
+- Your payment is processed securely via Paystack
+- Your payment receipts will appear here
+- Your report will be reviewed by admins within 24 hours
+- Your rhythm purchases and donations\nwill appear here
+- edited
+- more
+- or
+- 🎉 Blessed Day of the Golden Stool 🎉
+
+## React Web App UI Strings
+- A new tab has opened for you to complete your payment securely via Paystack.
+- ACTIVE
+- Accept responsibility for all activities that occur under your account
+- Access and receive a copy of your personal data
+- Access to selected content, cultural calendar, and forum participation.
+- Account Information:
+- Active
+- Add to Google Calendar
+- All content provided through the Service, including but not limited to videos, images, text, audio,
+                        and graphics, is owned by AshantiPost or our licensors and is protected by copyright, trademark, and
+                        other intellectual property laws. You may not reproduce, distribute, modify, or create derivative works
+                        from our content without explicit written permission.
+- App Store
+- Artifact not found.
+- Artifact of the Day not found.
+- Ashanti Community
+- Ashanti Heritage
+- AshantiPost Web
+- AshantiPost Web v1.0.0
+- AshantiPost is a cultural heritage platform dedicated to preserving and sharing the rich history,
+                        traditions, artifacts, and rhythms of the Asante Kingdom. Our Service includes educational content,
+                        video series, cultural artifacts documentation, traditional rhythms, and community forums.
+- AshantiPost is a cultural heritage platform dedicated to preserving and sharing the rich history, traditions, and artifacts of the Asante Kingdom.
+- AshantiPost offers both free and premium (Royal Tier) subscription options:
+- Attempt to circumvent security measures or access content without authorization
+- Audio
+- Back to Akom
+- Back to Feed
+- Back to Sign In
+- Back to Stories
+- Bookmarks
+- Brief title for your report
+- Business Transfers:
+- By accessing or using the AshantiPost mobile application and website (the "Service"), you agree to be
+                        bound by these Terms of Service ("Terms"). If you do not agree to these Terms, please do not use our Service.
+- CURRENT PLAN
+- Can I cancel anytime?
+- Can I download content offline?
+- Clan Stories & Anansesem
+- Close and check later
+- Collect or harvest user data without permission
+- Community Feed
+- Confirm New Password
+- Contact / Feedback
+- Contact our support team at
+- Corporate Information
+- Cover
+- Current Password
+- Customize your app experience
+- Daily Artifact
+- Daily History
+- Dapaah
+- Device Information:
+- Device type, operating system, and unique device identifiers.
+- Display Name
+- Download for Free
+- Download for Offline Access
+- Download on the
+- E.g., Kumasi Central Market
+- Email cannot be changed
+- Email:
+- Enter amount
+- Enter your email to receive a password reset link.
+- Essential access to heritage
+- Events
+- Events on this day
+- Evidence (Images)
+- Experience the story of this artifact through audio.
+- Experience this history through audio narration.
+- Featured
+- Featured Story
+- Fodwoɔ
+- Free Access
+- Free Plan
+- Free Tier:
+- Frequently Asked Questions
+- Full 3D interaction with this artifact is available on the Asante Mobile App.
+- Full access to all premium series, exclusive artifacts, downloadable rhythms, and ad-free experience.
+- Full view
+- GHS 0
+- GHS 30
+- Get it on
+- Get notified about events and updates
+- Go to Settings → Subscription to manage or cancel your subscription at any time.
+- Google Play
+- History entry not found.
+- History of the Day not found.
+- How do I access premium content?
+- How do I cancel my subscription?
+- How do I pay for the subscription?
+- If you have any questions about these Terms, please contact us at:
+- If you have any questions about this Privacy Policy, please contact us at:
+- In connection with a merger, acquisition, or sale of assets.
+- Information about how you use our Service, including watch history, bookmarks, and preferences.
+- Interfere with or disrupt the Service or servers
+- Investor Relations
+- Is there a family plan?
+- Jobs
+- Language:
+- Last updated: January 2026
+- Legal Requirements:
+- Listen to Guide
+- Listen to this Story
+- Loading content...
+- Loading stories...
+- Maintain the security of your account credentials
+- Media Center
+- Mobile pocket view
+- Monitor and analyze usage patterns and trends
+- Moral of the Story
+- My Reports
+- Narrated by
+- New Password
+- New Post
+- New Report
+- No archived artifacts found.
+- No comments yet. Be the first to share your thoughts!
+- No results found.
+- Not yet, but we're working on it! Stay tuned for updates.
+- Notify us immediately of any unauthorized access to your account
+- Offline downloads are available exclusively in our mobile app.
+                        Take the Ashanti heritage with you wherever you go - no internet required.
+- Offline downloads are available on the AshantiPost mobile app. Download the app from the App Store or Google Play.
+- Opt out of marketing communications
+- Oral heritage archive of the Asante people
+- Other Ways to Reach Us
+- Our Service is not intended for children under 13 years of age. We do not knowingly collect personal
+                        information from children under 13. If you believe we have collected information from a child under 13,
+                        please contact us immediately.
+- Payment Information:
+- Personalize your experience and content recommendations
+- Phone number, display name, and profile picture when you create an account.
+- Post Comment
+- Post or transmit harmful, offensive, or inappropriate content
+- Process transactions and send related information
+- Processing Your Donation
+- Protect against unauthorized access and ensure the security of our Service
+- Provide accurate and complete information when creating your account
+- Provide, maintain, and improve our Service
+- Questions? Call 000-000-000
+- Request correction of inaccurate data
+- Request deletion of your account and associated data
+- Royal Tier Active
+- Royal Tier Member
+- Royal Tier:
+- Save to Calendar
+- Search for series, artifacts, history, rhythms, and forum discussions
+- Send you updates, notifications, and promotional communications (with your consent)
+- Service Providers:
+- Sign in to access all features
+- Sign in with the same account on the mobile app
+- Submit Reporting
+- Subscribe to the Royal Tier to unlock all premium series, exclusive artifacts, and downloadable traditional rhythms.
+- Subscription fees are billed in advance on a monthly or annual basis. You may cancel your subscription
+                        at any time, and you will continue to have access until the end of your current billing period.
+                        Refunds are subject to our refund policy.
+- The Service is provided "as is" and "as available" without warranties of any kind, either express or
+                        implied. We do not guarantee that the Service will be uninterrupted, error-free, or secure. Your use
+                        of the Service is at your sole risk.
+- The page you're looking for doesn't exist or has been moved.
+- These Terms shall be governed by and construed in accordance with the laws of the Republic of Ghana,
+                        without regard to its conflict of law provisions.
+- Third-party companies that help us operate our Service (e.g., Firebase, Paystack).
+- This is a regular day in the Asante calendar.
+- To access certain features of the Service, you must create an account. You agree to:
+- To the maximum extent permitted by law, AshantiPost shall not be liable for any indirect, incidental,
+                        special, consequential, or punitive damages arising out of or relating to your use of the Service.
+- Unlimited access to everything
+- Unlock the full experience with the
+- Update your personal picture and information
+- Usage Data:
+- Use the Service for any commercial purpose without our consent
+- Version 1.0.0
+- Violate any applicable laws or regulations
+- Watch S1 E1
+- We accept Mobile Money (MTN, Vodafone, AirtelTigo), Visa, and Mastercard through our secure payment provider.
+- We do not sell your personal information. We may share your information with:
+- We implement appropriate technical and organizational measures to protect your personal information against
+                        unauthorized access, alteration, disclosure, or destruction. This includes encryption, secure servers,
+                        and regular security assessments.
+- We may collect the following types of information:
+- We may modify these Terms at any time. We will notify you of any material changes by posting the
+                        updated Terms on our Service. Your continued use of the Service after changes become effective
+                        constitutes your acceptance of the new Terms.
+- We may update this Privacy Policy from time to time. We will notify you of any changes by posting the
+                        new Privacy Policy on this page and updating the "Last updated" date. You are advised to review this
+                        Privacy Policy periodically for any changes.
+- We reserve the right to suspend or terminate your account and access to the Service at our sole
+                        discretion, without notice, for conduct that we believe violates these Terms or is harmful to other
+                        users, us, or third parties.
+- We use the information we collect to:
+- We'd love to hear from you! Reach out for support, feedback, or partnership inquiries.
+- Website
+- Weekly summary of new content
+- Welcome to AshantiPost ("we," "our," or "us"). We are committed to protecting your privacy and ensuring
+                        the security of your personal information. This Privacy Policy explains how we collect, use, disclose,
+                        and safeguard your information when you use our mobile application and website (collectively, the "Service").
+- What
+- What is AshantiPost?
+- When required by law or to protect our rights and the safety of users.
+- When using our Service, you agree not to:
+- When you post content in our forums or community features, you grant AshantiPost a non-exclusive,
+                        worldwide, royalty-free license to use, reproduce, and display such content. You are solely responsible
+                        for the content you post and must ensure it does not infringe on any third-party rights.
+- When you subscribe to premium features, payment is processed securely through third-party providers (Paystack). We do not store your payment card details.
+- Withdraw consent where processing is based on consent
+- Yes! You can cancel your subscription at any time. You'll continue to have access until the end of your billing period.
+- You have the right to:
+- You're all caught up! Check back later for updates.
+- Your donation helps us document artifacts, record oral histories,
+          and keep the Asante cultural legacy alive for future generations.
+- Your downloads sync automatically
+- Your generous donation of
+- preview
+- All Insights
+- All Stories
+- Clan Stories
+- Error loading Akom insights:
+- Moral Teachings
+- Myths & Mysteries
+- Sacred Rituals
+- Spiritual Philosophy
+- Symbolic Interpretation
+- Traditional Healing
+- insight
+- insights
+
